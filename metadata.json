@@ -1,0 +1,8 @@
+{
+  "name": "Recap - Your Life Unwrapped",
+  "description": "A vibrant timeline gallery to track your monthly highlights, from photos and music to games and places, culminating in a flashy Spotify-wrapped style recap.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
